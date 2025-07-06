@@ -2624,6 +2624,7 @@ input, select, textarea {
 			-ms-flex-grow: 1;
 			flex-grow: 1;
 			margin: 0 0 2em 0;
+			line-height: 1.1em
 		}
 
 		#header strong, #header b {
