@@ -2643,7 +2643,6 @@ input, select, textarea {
 
 		#header .image.avatar {
 		margin: 0 0 1em 0; /* Mantén esto si te gusta el margen inferior, o ajústalo */
-    		margin-left: 0
 		width: 250px;     /* Cambia esto a un valor fijo en píxeles */
     		height: 250px;    /* Asegúrate de que tenga la misma altura para ser circular */
     		/* Posiblemente también necesites display: block; si no lo tiene */
