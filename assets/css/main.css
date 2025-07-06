@@ -2643,11 +2643,11 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-		margin: 0 0 1em 0; /* Mantén esto si te gusta el margen inferior, o ajústalo */
-		width: 250px;     /* Cambia esto a un valor fijo en píxeles */
-    		height: 250px;    /* Asegúrate de que tenga la misma altura para ser circular */
-    		/* Posiblemente también necesites display: block; si no lo tiene */
-    		display: block;
+   		 margin: 0 auto 1em auto; /* ¡MODIFICADO AQUÍ! top, right, bottom, left */
+    		width: 250px;
+    		height: 250px;
+    		display: block; /* Esto es crucial para que margin: auto funcione */
+			}
 		}
 
 /* Footer */
