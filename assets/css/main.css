@@ -2646,10 +2646,10 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-   		 margin: 0 auto 1em auto; /* ¡MODIFICADO AQUÍ! top, right, bottom, left */
+   		margin: 0 0 2em 0; 
     		width: 250px;
     		height: 250px;
-    		display: block; /* Esto es crucial para que margin: auto funcione */
+    		display: block; 
 			}
 		}
 
