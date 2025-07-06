@@ -2619,16 +2619,13 @@ input, select, textarea {
 		}
 
 		#header .inner {
-	    text-align: center !important; /* Centra el texto y los elementos inline/inline-block */
-   		 /* Las siguientes propiedades ya las tenías o se ajustan */
+	   	 text-align: center;
     		-moz-flex-grow: 1;
    		 -webkit-flex-grow: 1;
    		 -ms-flex-grow: 1;
   		  flex-grow: 1;
-  		  margin: 0 0 2em 0; /* Margen inferior */
-   		 /* line-height: 1.1em; -- Este line-height es para el .inner en general,
-                                pero necesitamos uno más específico para el nombre grande. */
-	}
+  		  margin: 0 0 2em 0; 
+		}
 
 		#header strong, #header b {
 			color: #ffffff;
@@ -2641,7 +2638,7 @@ input, select, textarea {
 		#header h1 {
 			color: rgba(255, 255, 255, 0.5);
 			font-size: 1.35em;
-			line-height: 1.75em;
+			line-height: 2.3em;
 			margin: 0;
 		}
 
