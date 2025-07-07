@@ -2645,10 +2645,11 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-   		margin: 0 0 2em 0; 
-    		width: 250px;
-    		height: 250px;
-			}
+   		margin: 0 auto 2em auto; /* centrado horizontal */
+		width: 200px;
+		height: 200px;
+		display: block;
+		border-radius: 50%;
 		}
 
 /* Footer */
