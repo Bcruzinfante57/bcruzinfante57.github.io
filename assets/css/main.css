@@ -2591,10 +2591,9 @@ input, select, textarea {
 			  justify-content: space-between;
 			  align-items: flex-end;
 			  padding: 8em 4em;
-			  background-image: url("../../images/aconcagua.jpg");
+			  background-color: #fbe9eb
 			  background-size: cover;
 			  background-position: center;
-			  background-repeat: no-repeat;
 			  background-attachment: scroll;
 			  z-index: 1000;
 			}
@@ -2611,11 +2610,9 @@ input, select, textarea {
 			}
 
 		#header strong, #header b {
-			color: #fbe9eb;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #fbe9eb;
 		}
 
 		#header h1 {
