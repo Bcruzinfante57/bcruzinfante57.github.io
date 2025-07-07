@@ -2591,7 +2591,7 @@ input, select, textarea {
 			    justify-content: space-between;
 			    align-items: flex-end;
 			    padding: 8em 4em;
-			    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../images/Aconcagua.jpeg");
+			    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../../images/Aconcagua.jpeg");
 			    background-size: cover;
 			    background-position: center;
 			    background-repeat: no-repeat; 
