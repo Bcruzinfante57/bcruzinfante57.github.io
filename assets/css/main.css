@@ -2096,6 +2096,9 @@ input, select, textarea {
 			.image.thumb:hover:after {
 				opacity: 1.0;
 			}
+			.image.thumb:hover:before {
+			    opacity: 1.0;
+			}
 
 
 		.image img {
