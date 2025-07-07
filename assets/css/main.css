@@ -2066,7 +2066,7 @@ input, select, textarea {
 
 			.image.thumb:after {
 				border-radius: 0.35em;
-				border: solid 3px rgba(255, 255, 255, 0.5);
+				border: solid 3px rgba(50, 50, 50, 1.0);
 				-moz-transition: opacity 0.2s ease-in-out;
 				-webkit-transition: opacity 0.2s ease-in-out;
 				-ms-transition: opacity 0.2s ease-in-out;
