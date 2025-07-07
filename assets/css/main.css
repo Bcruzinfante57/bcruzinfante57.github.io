@@ -1765,7 +1765,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #222222;
+		color: #fad7db;
 		position: relative;
 		margin: 0 0 1.5em 0;
 		line-height: 2.3em;
@@ -2636,11 +2636,11 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: #222222;
+			color: #fad7db;
 		}
 
 	#footer .copyright {
-		color: #222222;
+		color: #fad7db;
 		font-size: 0.8em;
 		list-style: none;
 		margin: 1em 0 0 0;
