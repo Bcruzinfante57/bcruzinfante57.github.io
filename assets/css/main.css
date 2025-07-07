@@ -2591,9 +2591,9 @@ input, select, textarea {
 			    justify-content: space-between;
 			    align-items: flex-end;
 			    padding: 8em 4em;
-			    background-image: url("images/Aconcagua.jpg");
+			    background-image: url("../../images/Aconcagua.jpg");
 			    background-size: cover;
-			    background-position: center; /* Esta es la clave para centrarla */
+			    background-position: center; 
 			    background-attachment: scroll;
 			    z-index: 1000;
 			}
