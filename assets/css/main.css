@@ -2146,9 +2146,9 @@ input, select, textarea {
 
 			.image.avatar img {
     			border-radius: 100%;
-   			width: 200px; /* Prueba con un valor como 250px o 300px */
-    			height: 200px; /* Debe ser igual al width para mantener la circularidad */
-    			object-fit: cover; /* Esto es importante para que la imagen cubra el círculo sin distorsionarse */
+   			width: 200px; 
+    			height: 200px; 
+    			object-fit: cover; 
 			}
 			}
 
@@ -2606,8 +2606,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
-		position: fixed;
+		padding: 8em 4em;;
 		text-align: right;
 		top: 0;
 		width: 35%;
@@ -2649,7 +2648,6 @@ input, select, textarea {
    		margin: 0 0 2em 0; 
     		width: 250px;
     		height: 250px;
-    		display: block; 
 			}
 		}
 
