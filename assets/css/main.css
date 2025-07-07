@@ -1765,7 +1765,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #4f0202;
+		color: #5c0101;
 		position: relative;
 		margin: 0 0 1.5em 0;
 		line-height: 2.3em;
@@ -2591,7 +2591,7 @@ input, select, textarea {
 			    justify-content: space-between;
 			    align-items: flex-end;
 			    padding: 8em 4em;
-			    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../images/Aconcagua.jpg");
+			    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../images/Aconcagua.jpeg");
 			    background-size: cover;
 			    background-position: center;
 			    background-repeat: no-repeat; 
@@ -2637,7 +2637,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: #4f0202;
+			color: #5c0101;
 		}
 
 	#footer .copyright {
