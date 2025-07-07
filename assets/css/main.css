@@ -2596,7 +2596,6 @@ input, select, textarea {
 			  background-position: center;
 			  background-repeat: no-repeat;
 			  background-attachment: scroll;
-			  color: rgba(255, 255, 255, 0.5);
 			  z-index: 1000;
 			}
 			
