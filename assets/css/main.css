@@ -2043,7 +2043,7 @@ input, select, textarea {
 
 	.image {
 		border-radius: 0.35em;
-		border: 0;
+		border: solid 3px rgba(50, 50, 50, 1.0);
 		display: inline-block;
 		position: relative;
 	}
