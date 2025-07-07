@@ -2580,22 +2580,22 @@ input, select, textarea {
 
 /* Header */
 
-		#header {
-			  position: fixed;
-			  top: 0;
-			  left: 0;
-			  width: 35%;
-			  height: 100vh;
-			  display: flex;
-			  flex-direction: column;
-			  justify-content: space-between;
-			  align-items: flex-end;
-			  padding: 8em 4em;
-			  background-color: #fbe9eb;
-			  background-size: cover;
-			  background-position: center;
-			  background-attachment: scroll;
-			  z-index: 1000;
+			#header {
+			    position: fixed;
+			    top: 0;
+			    left: 0;
+			    width: 35%;
+			    height: 100vh;
+			    display: flex;
+			    flex-direction: column;
+			    justify-content: space-between;
+			    align-items: flex-end;
+			    padding: 8em 4em;
+			    background-image: url("images/Aconcagua.jpg");
+			    background-size: cover;
+			    background-position: center; /* Esta es la clave para centrarla */
+			    background-attachment: scroll;
+			    z-index: 1000;
 			}
 			
 			#header > * {
