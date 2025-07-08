@@ -2593,7 +2593,7 @@ input, select, textarea {
 			    justify-content: space-between;
 			    align-items: flex-end;
 			    padding: 8em 4em;
-			    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../../images/Aconcagua.jpeg");
+			    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("../../images/Aconcagua.jpeg");
 			    background-size: cover;
 			    background-position: center;
 			    background-repeat: no-repeat; 
@@ -2625,7 +2625,7 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-   		margin: 0 auto 2em auto; /* centrado horizontal */
+   		margin: 0 auto 2em auto; 
 		width: 200px;
 		height: 200px;
 		display: block;
